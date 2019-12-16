@@ -5,4 +5,6 @@ title: "Community"
 
 #### Join us on discord!
 
-Join us on our Discord server to chat with us!
+Join our discord server to chat with us!
+
+[Discord Link](https://discord.gg/Rvv5p4T)

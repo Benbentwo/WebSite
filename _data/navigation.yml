@@ -3,3 +3,25 @@ main:
     url: /posts/
   - title: "Community"
     url: /community/
+
+authors:
+  - name: "Benjamin Smith"
+    avatar: "/assets/images/BenjaminSmith.jpg"
+    bio: "DevOps Engineer; making sites, games, and OSS"
+    links:
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/Benbentwo"
+      - label: "LinkedIn"
+        icon: "fab fa-fw fa-linkedin-in"
+        url: "https://www.linkedin.com/in/benjamin-smith-15378010a/"
+  - name: "test test"
+    avatar: "/assets/images/yikesDNE.jpg"
+    bio: "Crime Engineer; m"
+    links:
+      - label: "GitHub"
+        icon: "fab fa-fw fa-github"
+        url: "https://github.com/asdf"
+      - label: "LinkedIn"
+        icon: "fab fa-fw fa-linkedin-in"
+        url: "https://www.linkedin.com/in/"
